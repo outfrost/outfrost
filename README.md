@@ -27,4 +27,4 @@ I may occasionally send a contribution to an open source project on GitHub - onl
 
 * [My website](https://outfrost.name/)
 * [Codeberg](https://codeberg.org/outfrost)
-* [My own git forge](https://git.outfrost.name/)
+* [My own git forge](https://git.outfrost.name/outfrost)
